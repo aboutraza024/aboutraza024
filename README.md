@@ -51,8 +51,30 @@
   </a>
 </p>
 
-### 👉 Libraries/Frameworks
-
+### 👉 Libraries/Frameworks and  ToolS
+<p align="center">
+  &emsp;
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
+    <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://botasaurus.readthedocs.io/" target="_blank">
+    <img alt="Botasaurus" src="https://img.shields.io/badge/Botasaurus-FF6F61?style=for-the-badge">
+  </a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  </a>
+  &emsp;
+</p>
 
 ### 👉 Databases 
 
@@ -62,6 +84,11 @@
   &emsp;
     <a href="https://https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white
     "></a>
+    &emsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
+    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  </a>
+  &emsp;
  </p>
 
 <hr>
@@ -70,11 +97,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aboutraza024&theme=dark&hide_border=true" alt="aboutraza024"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutraza024&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutraza024&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboutraza024&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aboutraza024&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats" />
 </p>
+
 
