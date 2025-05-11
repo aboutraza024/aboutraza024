@@ -56,7 +56,7 @@
 <p align="left">
   &emsp;
   <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
