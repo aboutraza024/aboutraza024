@@ -74,11 +74,8 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
-    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  </a>
-  &emsp;
 </p>
+
 
 ### 👉 Databases 
 
