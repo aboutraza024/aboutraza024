@@ -51,7 +51,7 @@
   </a>
 </p>
 
-### 👉 Libraries/Frameworks and  ToolS
+### 👉 Libraries/Frameworks and  Tools
 <p align="center">
   &emsp;
   <a href="https://www.selenium.dev/" target="_blank">
@@ -74,6 +74,10 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
+    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Databases 
@@ -85,10 +89,6 @@
     <a href="https://https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white
     "></a>
     &emsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
-    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  </a>
-  &emsp;
  </p>
 
 <hr>
@@ -98,12 +98,13 @@
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutraza024&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aboutraza024&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutraza024&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 
 
