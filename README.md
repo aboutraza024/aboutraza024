@@ -60,19 +60,24 @@
   </a>
   &emsp;
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
-    <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://botasaurus.readthedocs.io/" target="_blank">
-    <img alt="Botasaurus" src="https://img.shields.io/badge/Botasaurus-FF6F61?style=for-the-badge">
+    <img alt="Botasaurus" src="https://img.shields.io/badge/Botasaurus-FF6F61?style=flat&logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
   </a>
   &emsp;
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+  </a>
+  &emsp;
+  &emsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office" target="_blank">
+    <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white">
   </a>
   &emsp;
 </p>
