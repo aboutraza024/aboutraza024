@@ -51,13 +51,14 @@
   </a>
 </p>
 
+### 👉 Libraries/Frameworks
+
+
 ### 👉 Databases 
 
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
   &emsp;
     <a href="https://https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white
     "></a>
@@ -69,7 +70,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aboutraza024&theme=dark&hide_border=true" alt="aboutraza024"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutraza024&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutraza024&show_icons=true&locale=en&layout=compact" alt="aboutraza024" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aboutraza024&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboutraza024&show_icons=true&locale=en" alt="aboutraza024" /></p>
